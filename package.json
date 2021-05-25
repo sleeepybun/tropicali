@@ -19,7 +19,7 @@
   "devDependencies": {
     "autoprefixer": "^9.6.0",
     "browser-sync": "^2.26.7",
-    "browserslist": "4.6.3",
+    "browserslist": "4.16.5",
     "gh-pages": "^2.0.1",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^4.2.0",
@@ -36,7 +36,7 @@
     "caniuse-lite": "1.0.30000974"
   },
   "dependencies": {
-    "browserslist": "^4.6.3",
+    "browserslist": "^4.16.5",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0"
   }
